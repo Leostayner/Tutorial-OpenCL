@@ -1,4 +1,4 @@
-# Tutorial Opencl
+# Tutorial OpenCL
 #### Leonardo Pereira Medeiros
 
 # OPENCL
